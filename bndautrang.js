@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://dailyvespahanoi.blogspot.com' target='_blank'><img src='http://topcom.com.vn/data/upload/Piaggio_May-Promotion_Banner-999x537.jpg' width='500px'/><br/>Bán xe Vespa Piaggio</a>. Bán xe Vespa Piaggio chính hãng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://dailyvespahanoi.blogspot.com' target='_blank'><img src='http://topcom.com.vn/data/upload/Piaggio_May-Promotion_Banner-999x537.jpg' width='500px'/><br/>Đại Lý Vespa Piaggio chính hãng</a>. Liên hệ Mr Chi: 0918247543. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
