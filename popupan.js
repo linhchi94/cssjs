@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://banxevespalx.blogspot.com/';
+	var url_popup = 'http://dailyvespahanoi.blogspot.com/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://banxevespalx.blogspot.com/';
