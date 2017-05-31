@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://banxevespalx.blogspot.com' target='_blank'><img src='https://www.facebook.com/462062750804943/photos/a.462063790804839.1073741825.462062750804943/462063800804838/?type=1&theater' width='500px'/><br/>Bán xe Vespa Piaggio</a>. Bán xe Vespa Piaggio chính hãng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://banxevespalx.blogspot.com' target='_blank'><img src='http://topcom.com.vn/data/upload/Piaggio_May-Promotion_Banner-999x537.jpg' width='500px'/><br/>Bán xe Vespa Piaggio</a>. Bán xe Vespa Piaggio chính hãng. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
